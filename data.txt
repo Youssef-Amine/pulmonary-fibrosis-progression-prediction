@@ -1,8 +1,4 @@
-Flask
-gunicorn
-numpy
-pillow
-pydantic
-scikit-learn
-joblib
-pandas
+https://www.kaggle.com/datasets/qingtaozhou/osic-pulmonaryfibrosisprogression
+https://www.kaggle.com/datasets/vgarshin/kerasapplications
+https://www.kaggle.com/datasets/vgarshin/efficientnet
+https://www.kaggle.com/datasets/vgarshin/effnetweights
